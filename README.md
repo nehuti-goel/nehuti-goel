@@ -43,7 +43,8 @@ Building projects, learning continuously, and turning ideas into reality.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<h2 align="left">✳ Selected Work</h2>
+## project section
+<h2 align="left">Selected Work</h2>
 
 <p align="left">
   A collection of experiments, applications, and ideas brought to life.
@@ -52,32 +53,33 @@ Building projects, learning continuously, and turning ideas into reality.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💗 Placement Portal</h3>
+      <h3>Placement Portal</h3>
       <p>A full-stack platform for students to explore placement opportunities.</p>
       <p><code>Flask</code> <code>Vue.js</code> <code>SQLite</code></p>
-      <a href="https://github.com/nehuti-goel/Placement-Portal-using-Flask-and-Vue.js">↗ Explore project</a>
+      <a href="https://github.com/nehuti-goel/Placement-Portal-using-Flask-and-Vue.js">Explore project</a>
     </td>
     <td width="50%" valign="top">
-      <h3>💠 Comment Category Prediction</h3>
+      <h3>Comment Category Prediction</h3>
       <p>An NLP project exploring text classification with machine-learning models.</p>
       <p><code>Python</code> <code>TF-IDF</code> <code>LightGBM</code></p>
-      <a href="https://github.com/nehuti-goel/Comment-Category-Prediction">↗ Explore project</a>
+      <a href="https://github.com/nehuti-goel/Comment-Category-Prediction">Explore project</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💜 Collaborative Task Manager</h3>
+      <h3>Collaborative Task Manager</h3>
       <p>A team-based platform for managing workspaces, projects, and tasks.</p>
       <p><code>FastAPI</code> <code>SQLAlchemy</code> <code>SQLite</code></p>
       <p><em>Currently in development</em></p>
     </td>
     <td width="50%" valign="top">
-      <h3>✨ More experiments</h3>
+      <h3>More Projects</h3>
       <p>Explore my other projects, experiments, and learning repositories.</p>
-      <a href="https://github.com/nehuti-goel?tab=repositories">↗ Browse repositories</a>
+      <a href="https://github.com/nehuti-goel?tab=repositories">Browse repositories</a>
     </td>
   </tr>
 </table>
+
 
 
 ## 📈 GitHub Stats
